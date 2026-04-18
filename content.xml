@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026041814233402WKQR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260418142334FVDYCF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA_ Profesorado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776508402855</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo478gh3-ipvo3882n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Como Carolina Marín</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Como Carolina Marín</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Como Carolina Marín</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo478gh3-ipvo3882n</odePageId>
+      <odeBlockId>block-1776445746571-k7xjv1o5h</odeBlockId>
+      <blockName>Descripción general</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478gh3-ipvo3882n</odePageId>
+          <odeBlockId>block-1776445746571-k7xjv1o5h</odeBlockId>
+          <odeIdeviceId>idevice-1776445746569-k22c6h6oi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Etapa educativa:</strong> Educación Secundaria Obligatoria</p>
+<p><strong>Nivel:</strong> 4ºESO</p>
+<p><strong>Materia:</strong> Educación Física</p>
+<p><strong>Áreas implicadas:</strong> Educación Física </p>
+<p><strong>Agrupamientos:</strong></p>
+<ul>
+<li>Gran grupo</li>
+<li>Trabajo por parejas</li>
+<li>Trabajo individual</li>
+<li>Trabajo cooperativo </li>
+</ul>
+<p><strong>Temporalización: </strong>Tercer trimestre 10 sesiones de 55 minutos.</p>
+<p>La secuenciación didáctica se detallará en la SA para el alumnado.</p>
+<p><strong>Organización espacial:</strong></p>
+<ul>
+<li>Aula de referencia</li>
+<li>Polideportivo escolar</li>
+</ul>
+<p><strong>Productos exigidos al alumnado:</strong></p>
+<ul>
+<li>Desarrollo torneo deportivo</li>
+<li>Infografía sobre deporte a desarrollar</li>
+<li>Video tutorial golpeos de bádminton </li>
+<li>Superación retos técnicos<br /><br /></li>
+</ul>
+<p><br /><strong>Herramientas tecnológicas:</strong><br />Canva, Capcut, OneDrive, Teams.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776445746569-k22c6h6oi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Etapa educativa:</strong> Educación Secundaria Obligatoria</p>\n<p><strong>Nivel:</strong> 4ºESO</p>\n<p><strong>Materia:</strong> Educación Física</p>\n<p><strong>Áreas implicadas:</strong> Educación Física </p>\n<p><strong>Agrupamientos:</strong></p>\n<ul>\n<li>Gran grupo</li>\n<li>Trabajo por parejas</li>\n<li>Trabajo individual</li>\n<li>Trabajo cooperativo </li>\n</ul>\n<p><strong>Temporalización: </strong>Tercer trimestre 10 sesiones de 55 minutos.</p>\n<p>La secuenciación didáctica se detallará en la SA para el alumnado.</p>\n<p><strong>Organización espacial:</strong></p>\n<ul>\n<li>Aula de referencia</li>\n<li>Polideportivo escolar</li>\n</ul>\n<p><strong>Productos exigidos al alumnado:</strong></p>\n<ul>\n<li>Desarrollo torneo deportivo</li>\n<li>Infografía sobre deporte a desarrollar</li>\n<li>Video tutorial golpeos de bádminton </li>\n<li>Superación retos técnicos<br /><br /></li>\n</ul>\n<p><br /><strong>Herramientas tecnológicas:</strong><br />Canva, Capcut, OneDrive, Teams.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo478ghh-4mchbrc1h</odePageId>
+  <odeParentPageId>page-mo478gh3-ipvo3882n</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo478ghh-4mchbrc1h</odePageId>
+      <odeBlockId>block-1776445954094-i5uaf47zt</odeBlockId>
+      <blockName>Finalidad</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghh-4mchbrc1h</odePageId>
+          <odeBlockId>block-1776445954094-i5uaf47zt</odeBlockId>
+          <odeIdeviceId>idevice-1776445954092-n7rxn339j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se pretende desarrollar y potenciar la actividad física del alumnado mediante el dominio de un deporte conocido y visto en cursos previos como es el bádminton como herramienta para mejorar los dominios técnicos, la participación social, la salud física, mental y social así como la habilidad de trasmitir conocimientos.<br />A través de la práctica y la trasmisión de información, se busca que el alumnado comprenda los elementos curriculares incluidos, sea capaz de sintetizarlos , demostrarlos y trasmitirlos.</p>
+<p>Impacto esperado:</p>
+<ol>
+<li>Fomentar el desarrollo competencial del alumnado.</li>
+<li>Promover la realización de actividad física en su tiempo libre.</li>
+<li>Incentivar y motivar a través del esfuerzo y competitividad de una figura del deporte español reconocida a nivel mundial.</li>
+<li>Desarrollar la creación digital, potenciando la capacidad comunicativa del alumnado.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776445954092-n7rxn339j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se pretende desarrollar y potenciar la actividad física del alumnado mediante el dominio de un deporte conocido y visto en cursos previos como es el bádminton como herramienta para mejorar los dominios técnicos, la participación social, la salud física, mental y social así como la habilidad de trasmitir conocimientos.<br />A través de la práctica y la trasmisión de información, se busca que el alumnado comprenda los elementos curriculares incluidos, sea capaz de sintetizarlos , demostrarlos y trasmitirlos.</p>\n<p>Impacto esperado:</p>\n<ol>\n<li>Fomentar el desarrollo competencial del alumnado.</li>\n<li>Promover la realización de actividad física en su tiempo libre.</li>\n<li>Incentivar y motivar a través del esfuerzo y competitividad de una figura del deporte español reconocida a nivel mundial.</li>\n<li>Desarrollar la creación digital, potenciando la capacidad comunicativa del alumnado.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo478ghh-4mchbrc1h</odePageId>
+      <odeBlockId>block-1776465342035-kr97ece38</odeBlockId>
+      <blockName>Relación con los ODS y los retos del siglo XXI</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghh-4mchbrc1h</odePageId>
+          <odeBlockId>block-1776465342035-kr97ece38</odeBlockId>
+          <odeIdeviceId>idevice-1776465342035-5j52cwoq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>ODS vinculados:</p>
+<p>ODS 3: Salud y bienestar.<br />ODS 4: Educación de calidad.<br />ODS 5: Igualdad de género.<br /><br />Retos del siglo XXI:</p>
+<ul>
+<li>Desarrollar hábitos de vida saludable</li>
+<li>Promover la igualdad de género</li>
+<li>Usar de manera ética y eficaz las tecnologías</li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776465342035-5j52cwoq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>ODS vinculados:</p>\n<p>ODS 3: Salud y bienestar.<br />ODS 4: Educación de calidad.<br />ODS 5: Igualdad de género.<br /><br />Retos del siglo XXI:</p>\n<ul>\n<li>Desarrollar hábitos de vida saludable</li>\n<li>Promover la igualdad de género</li>\n<li>Usar de manera ética y eficaz las tecnologías</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo478ghk-n82m3q8ro</odePageId>
+  <odeParentPageId>page-mo478gh3-ipvo3882n</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo478ghk-n82m3q8ro</odePageId>
+      <odeBlockId>block-1776446108030-nqh57xhsp</odeBlockId>
+      <blockName>Competencias clave y descriptores del perfil de salida</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghk-n82m3q8ro</odePageId>
+          <odeBlockId>block-1776446108030-nqh57xhsp</odeBlockId>
+          <odeIdeviceId>idevice-1776446108027-tjrl2ruh2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 90%; border-style: solid; float: left;">
+<tbody>
+<tr>
+<td style="width: 33.302%;"><strong>COMPETENCIAS ESPECIFICAS</strong><br /></td>
+<td style="width: 33.302%;"><strong>CRITERIOS DE EVALUACIÓN ASOCIADO</strong></td>
+<td style="width: 33.3049%;"><strong>DESCRIPTORES DEL PERFIL DE SALIDA</strong></td>
+</tr>
+<tr>
+<td style="width: 33.302%;"><em>Competencias específica 1.</em> Adoptar un estilo de vida activo y saludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias a partir de un análisis crítico de los modelos corporales y del rechazo de las prácticas que carezcan de base científica, para hacer un uso saludable y autónomo del tiempo libre y así mejorar la calidad de vida.</td>
+<td style="width: 33.302%;">1.2. Incorporar de forma autónoma los procesos de activación corporal, autorregulación y dosificación del esfuerzo, alimentación saludable, educación postural, relajación e higiene durante la práctica de actividades motrices, interiorizando las rutinas propias de una práctica motriz saludable y responsable.</td>
+<td style="width: 33.3049%;">CCL3,STEM2,STEM5,CD4,CPSAA2yCPSAA4</td>
+</tr>
+<tr>
+<td style="width: 33.302%;"><em>Competencia específica 2. </em>Adaptar, con progresiva autonomía en su ejecución, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones con dificultad variable, para resolver situaciones de carácter motor vinculadas con distintas actividades físicas funcionales, deportivas, expresivas y recreativas, para consolidar actitudes de superación, crecimiento y resiliencia al enfrentarse a desafíos físicos.</td>
+<td style="width: 33.302%;">2.3 Evidenciar control y dominio corporal al emplear los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa, resolviendo problemas en todo tipo de situaciones motrices transferibles a su espacio vivencial con autonomía.</td>
+<td style="width: 33.3049%;">CPSAA4, CPSAA5, CE2 y CE3.</td>
+</tr>
+<tr>
+<td style="width: 33.302%;"><em>Competencia específica 3.</em> Compartir espacios de práctica físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto hacia los participantes y a las reglas sobre los resultados, adoptando una actitud crítica ante comportamientos antideportivos o contrarios a la convivencia y desarrollando procesos de autorregulación emocional que canalicen el fracaso y el éxito en estas situaciones, para contribuir con progresiva autonomía al entendimiento social y al compromiso ético en los diferentes espacios en los que se participa.</td>
+<td style="width: 33.302%;">
+<p>3.1. Practicar y participar activamente asumiendo responsabilidades en la organización de una gran variedad de actividades motrices, valorando las implicaciones éticas de las prácticas antideportivas, evitando la competitividad desmedida y actuando con deportividad al asumir los roles de espectador/a, participante u otros.</p>
+<p>3.2. Cooperar o colaborar en la práctica de diferentes producciones motrices y proyectos para alcanzar el logro individual y grupal, participando con autonomía en la toma de decisiones vinculadas a la asignación de roles, la gestión del tiempo de práctica y la optimización del resultado final.</p>
+</td>
+<td style="width: 33.3049%;">CCL5,CPSAA1,CPSAA3,CPSAA5 y CC3</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776446108027-tjrl2ruh2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 90%; border-style: solid; float: left;\">\n<tbody>\n<tr>\n<td style=\"width: 33.302%;\"><strong>COMPETENCIAS ESPECIFICAS</strong><br /></td>\n<td style=\"width: 33.302%;\"><strong>CRITERIOS DE EVALUACIÓN ASOCIADO</strong></td>\n<td style=\"width: 33.3049%;\"><strong>DESCRIPTORES DEL PERFIL DE SALIDA</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.302%;\"><em>Competencias específica 1.</em> Adoptar un estilo de vida activo y saludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias a partir de un análisis crítico de los modelos corporales y del rechazo de las prácticas que carezcan de base científica, para hacer un uso saludable y autónomo del tiempo libre y así mejorar la calidad de vida.</td>\n<td style=\"width: 33.302%;\">1.2. Incorporar de forma autónoma los procesos de activación corporal, autorregulación y dosificación del esfuerzo, alimentación saludable, educación postural, relajación e higiene durante la práctica de actividades motrices, interiorizando las rutinas propias de una práctica motriz saludable y responsable.</td>\n<td style=\"width: 33.3049%;\">CCL3,STEM2,STEM5,CD4,CPSAA2yCPSAA4</td>\n</tr>\n<tr>\n<td style=\"width: 33.302%;\"><em>Competencia específica 2. </em>Adaptar, con progresiva autonomía en su ejecución, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones con dificultad variable, para resolver situaciones de carácter motor vinculadas con distintas actividades físicas funcionales, deportivas, expresivas y recreativas, para consolidar actitudes de superación, crecimiento y resiliencia al enfrentarse a desafíos físicos.</td>\n<td style=\"width: 33.302%;\">2.3 Evidenciar control y dominio corporal al emplear los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa, resolviendo problemas en todo tipo de situaciones motrices transferibles a su espacio vivencial con autonomía.</td>\n<td style=\"width: 33.3049%;\">CPSAA4, CPSAA5, CE2 y CE3.</td>\n</tr>\n<tr>\n<td style=\"width: 33.302%;\"><em>Competencia específica 3.</em> Compartir espacios de práctica físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto hacia los participantes y a las reglas sobre los resultados, adoptando una actitud crítica ante comportamientos antideportivos o contrarios a la convivencia y desarrollando procesos de autorregulación emocional que canalicen el fracaso y el éxito en estas situaciones, para contribuir con progresiva autonomía al entendimiento social y al compromiso ético en los diferentes espacios en los que se participa.</td>\n<td style=\"width: 33.302%;\">\n<p>3.1. Practicar y participar activamente asumiendo responsabilidades en la organización de una gran variedad de actividades motrices, valorando las implicaciones éticas de las prácticas antideportivas, evitando la competitividad desmedida y actuando con deportividad al asumir los roles de espectador/a, participante u otros.</p>\n<p>3.2. Cooperar o colaborar en la práctica de diferentes producciones motrices y proyectos para alcanzar el logro individual y grupal, participando con autonomía en la toma de decisiones vinculadas a la asignación de roles, la gestión del tiempo de práctica y la optimización del resultado final.</p>\n</td>\n<td style=\"width: 33.3049%;\">CCL5,CPSAA1,CPSAA3,CPSAA5 y CC3</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo478ghk-n82m3q8ro</odePageId>
+      <odeBlockId>block-1776458513398-5qu6d6smi</odeBlockId>
+      <blockName>Saberes básicos integrados</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghk-n82m3q8ro</odePageId>
+          <odeBlockId>block-1776458513398-5qu6d6smi</odeBlockId>
+          <odeIdeviceId>idevice-1776458513399-ht67cusei</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Bloque A:</strong> Vida activa y saludable.</p>
+<p>Salud física: Cuidado del cuerpo: calentamiento especifico autónomo. Prácticas peligrosas, mitos y falsas creencias en torno al cuerpo y a la actividad física.<br />Salud mental: exigencias y presiones de la competición.</p>
+<p><strong>Bloque B:</strong> Organización y gestión de la actividad física.</p>
+<p>Elección de la práctica física: gestión de las situaciones de competición en base a criterios de lógica,<br />respeto al rival y motivación. La higiene como elemento imprescindible en la práctica de actividad física y deportiva.</p>
+<p><strong>Bloque C:</strong> Resolución de problemas en situaciones motrices.</p>
+<p>Toma de decisiones: búsqueda de adaptaciones motrices para resolver eficientemente tareas de cierta complejidad en situaciones motrices individuales. Coordinación de las acciones motrices para la resolución de la acción/tarea en situaciones cooperativas. Búsqueda de la acción más óptima en función de la acción y ubicación del rival, así como del lugar en el que se encuentre el móvil o resultado en situaciones motrices de persecución y de interacción con un móvil.<br />Capacidades perceptivo-motrices en contexto de práctica: integración del esquema corporal; toma de decisiones previas a la realización de una actividad motriz acerca de los mecanismos coordinativos, espaciales y temporales para resolverla adecuadamente.<br />Habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas: profundización, identificación y corrección de errores comunes.</p>
+<p><strong>Bloque D:</strong> Autoregulación emocional e interacción social en situaciones motrices.</p>
+<p>Autorregulación emocional: control de estados de ánimo y estrategias de gestión del fracaso en situaciones motrices. Habilidades volitivas y capacidad de superación.<br />Habilidades sociales: estrategias de negociación y mediación en contextos motrices.<br />Respeto a las reglas: dopaje y otras trampas en el deporte profesional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776458513399-ht67cusei","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Bloque A:</strong> Vida activa y saludable.</p>\n<p>Salud física: Cuidado del cuerpo: calentamiento especifico autónomo. Prácticas peligrosas, mitos y falsas creencias en torno al cuerpo y a la actividad física.<br />Salud mental: exigencias y presiones de la competición.</p>\n<p><strong>Bloque B:</strong> Organización y gestión de la actividad física.</p>\n<p>Elección de la práctica física: gestión de las situaciones de competición en base a criterios de lógica,<br />respeto al rival y motivación. La higiene como elemento imprescindible en la práctica de actividad física y deportiva.</p>\n<p><strong>Bloque C:</strong> Resolución de problemas en situaciones motrices.</p>\n<p>Toma de decisiones: búsqueda de adaptaciones motrices para resolver eficientemente tareas de cierta complejidad en situaciones motrices individuales. Coordinación de las acciones motrices para la resolución de la acción/tarea en situaciones cooperativas. Búsqueda de la acción más óptima en función de la acción y ubicación del rival, así como del lugar en el que se encuentre el móvil o resultado en situaciones motrices de persecución y de interacción con un móvil.<br />Capacidades perceptivo-motrices en contexto de práctica: integración del esquema corporal; toma de decisiones previas a la realización de una actividad motriz acerca de los mecanismos coordinativos, espaciales y temporales para resolverla adecuadamente.<br />Habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas: profundización, identificación y corrección de errores comunes.</p>\n<p><strong>Bloque D:</strong> Autoregulación emocional e interacción social en situaciones motrices.</p>\n<p>Autorregulación emocional: control de estados de ánimo y estrategias de gestión del fracaso en situaciones motrices. Habilidades volitivas y capacidad de superación.<br />Habilidades sociales: estrategias de negociación y mediación en contextos motrices.<br />Respeto a las reglas: dopaje y otras trampas en el deporte profesional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo478ghn-5s54riqz7</odePageId>
+  <odeParentPageId>page-mo478gh3-ipvo3882n</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo478ghn-5s54riqz7</odePageId>
+      <odeBlockId>block-1776463185825-m2y9g07vk</odeBlockId>
+      <blockName>Metodologías y estrategias metodológicas</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghn-5s54riqz7</odePageId>
+          <odeBlockId>block-1776463185825-m2y9g07vk</odeBlockId>
+          <odeIdeviceId>idevice-1776463185822-rrs0r0f1x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Flipped Classroom</p>
+<p>Conocimiento previo de la actividad y teoría que se va a desarrollar y poner en práctica en el aula.</p>
+<p>Aprendizaje Basado en Proyectos (ABP)<br />Desarrollo de un proyecto artístico digital con finalidad pedagógica y competencial.</p>
+<p><br />Aprendizaje Cooperativo<br />Trabajo en pequeños grupos y o parejas  para el desarrollo de actividades y proyectos.</p>
+<p><br />Técnicas de pensamiento visual (Visual Thinking)<br />Esquemas para conceptualizar ideas trabajadas.</p>
+<p><br />Explicación guiada en gran grupo<br />Introducción teórica y puesta en práctica</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776463185822-rrs0r0f1x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Flipped Classroom</p>\n<p>Conocimiento previo de la actividad y teoría que se va a desarrollar y poner en práctica en el aula.</p>\n<p>Aprendizaje Basado en Proyectos (ABP)<br />Desarrollo de un proyecto artístico digital con finalidad pedagógica y competencial.</p>\n<p><br />Aprendizaje Cooperativo<br />Trabajo en pequeños grupos y o parejas  para el desarrollo de actividades y proyectos.</p>\n<p><br />Técnicas de pensamiento visual (Visual Thinking)<br />Esquemas para conceptualizar ideas trabajadas.</p>\n<p><br />Explicación guiada en gran grupo<br />Introducción teórica y puesta en práctica</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo478gho-jb96vdybf</odePageId>
+  <odeParentPageId>page-mo478gh3-ipvo3882n</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo478gho-jb96vdybf</odePageId>
+      <odeBlockId>block-1776463933887-32mhb7ykr</odeBlockId>
+      <blockName>Situación de Aprendizaje vinculada con:</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478gho-jb96vdybf</odePageId>
+          <odeBlockId>block-1776463933887-32mhb7ykr</odeBlockId>
+          <odeIdeviceId>idevice-1776463933885-xve0nfgub</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li> Plan de Acción Tutorial<br />Mediante el desarrollo de valores de convivencia, solidaridad, empatía y cooperación tal y como este enmarca</li>
+<li>Proyecto TIC<br />Mediante la integración de herramientas digitales de creación y difusión de información y conocimiento</li>
+<li>PLEI                                                                                                                                            Mediante la integración de artículos, lecturas e investigaciones acorde a la materia dada.</li>
+<li>Programa de salud                                                                                                                  Vinculación de los contenidos dados así como su relación en la activación y desarrollo de competiciones y patios dinámicos en el centro.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776463933885-xve0nfgub","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li> Plan de Acción Tutorial<br />Mediante el desarrollo de valores de convivencia, solidaridad, empatía y cooperación tal y como este enmarca</li>\n<li>Proyecto TIC<br />Mediante la integración de herramientas digitales de creación y difusión de información y conocimiento</li>\n<li>PLEI                                                                                                                                            Mediante la integración de artículos, lecturas e investigaciones acorde a la materia dada.</li>\n<li>Programa de salud                                                                                                                  Vinculación de los contenidos dados así como su relación en la activación y desarrollo de competiciones y patios dinámicos en el centro.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo478ghp-8a04uck8w</odePageId>
+  <odeParentPageId>page-mo478gh3-ipvo3882n</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo478ghp-8a04uck8w</odePageId>
+      <odeBlockId>block-1776464884741-sc6ohm56c</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghp-8a04uck8w</odePageId>
+          <odeBlockId>block-1776464884741-sc6ohm56c</odeBlockId>
+          <odeIdeviceId>idevice-1776464884740-epy2ptgvz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Realización de torneo de Bádminton durante los patios dinámicos .</li>
+<li>Exposición en el centro educativo de las infografías elaboradas.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776464884740-epy2ptgvz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Realización de torneo de Bádminton durante los patios dinámicos .</li>\n<li>Exposición en el centro educativo de las infografías elaboradas.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo478ghq-49s92z5r4</odePageId>
+  <odeParentPageId>page-mo478gh3-ipvo3882n</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo478ghq-49s92z5r4</odePageId>
+      <odeBlockId>block-1776446443529-1uj17tmm3</odeBlockId>
+      <blockName>Licencia Creative Commons</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghq-49s92z5r4</odePageId>
+          <odeBlockId>block-1776446443529-1uj17tmm3</odeBlockId>
+          <odeIdeviceId>idevice-1776446443528-hbr8g1rm1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este  es un recurso educativo abierto (REA) se comparte con licencia Creative Commons CC BY-SA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776446443528-hbr8g1rm1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este  es un recurso educativo abierto (REA) se comparte con licencia Creative Commons CC BY-SA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo478ghq-49s92z5r4</odePageId>
+      <odeBlockId>block-1776468276062-chuwlxas5</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo478ghq-49s92z5r4</odePageId>
+          <odeBlockId>block-1776468276062-chuwlxas5</odeBlockId>
+          <odeIdeviceId>idevice-1776468276060-f4t9ww2rf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA_ Profesorado</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
